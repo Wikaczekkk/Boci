@@ -1,16 +1,1 @@
-{
-  "name": "discord-music-bot",
-  "version": "1.0.0",
-  "description": "Discord music bot with controls",
-  "main": "index.js",
-  "type": "module",
-  "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
-  },
-  "dependencies": {
-    "discord.js": "^14.11.0",
-    "@discordjs/voice": "^0.16.0",
-    "play-dl": "^1.9.6"
-  }
-}
+s
